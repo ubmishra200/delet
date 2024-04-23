@@ -36,7 +36,7 @@ const AppBanner = () => {
             duration: 0.9,
             delay: 0.2,
           }}
-          className="font-general-medium mt-4 text-lg md:text-xl lg:text-2xl xl:text-3xl text-center sm:text-left leading-normal text-gray-500 dark:text-gray-200"
+          className="font-general-medium mt-4 text-lg md:text-xl lg:text-xl xl:text-xl text-center sm:text-left leading-normal text-gray-500 dark:text-gray-200"
         >
           We Make Creativity Work For Your Brand !.... Ours Is A Team Of
           Creatives That Is Brainstorming On Great Ideas, All. The. Time.With
